@@ -19,7 +19,7 @@
 * https://github.com/Huriosity
 
 ## Experience 
-#### * At this moment i haven't any experience in commercial development. Some of my university courseworks and lab's you can see here
+#### * At this moment i haven't any experience in commercial development. Some of my university courseworks and lab's you can see [here](https://github.com/Huriosity)
 
 ## Education 
 #### * **Belarusian State University of Informatics and Radioelectronics(2017 - )**

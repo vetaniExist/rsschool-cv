@@ -1,1 +1,1 @@
-https://vetaniexist.github.io/rsschool-cv/cv
+https://vetaniexist.github.io/rsschool-cv/
